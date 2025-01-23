@@ -53,7 +53,7 @@ const About = () => {
             and scrambled it to make a type specimen book.
           </p>
           <button className="bg-blue-600 text-white px-8 py-2 rounded">
-            Learn more
+            <a href="#Contact">Learn more</a>
           </button>
         </div>
       </div>

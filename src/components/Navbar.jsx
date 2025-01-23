@@ -36,7 +36,7 @@ const Navbar = () => {
           </a>
         </ul>
         <button className="hidden md:block bg-white px-8 py-2 rounded-full">
-          Sign Up
+          <a href="tel:+917200538725">Call now!</a>
         </button>
         <img
           onClick={() => setShowMobileMenu(true)}
